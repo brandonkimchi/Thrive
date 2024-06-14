@@ -1,5 +1,6 @@
 # Thrive
-Thrive is a mobile app my group came up with at the CODE_EXP DSTA BRAINHACK 2024 Hackathon
+Thrive is a mobile app my group came up with at the CODE_EXP DSTA BRAINHACK 2024 Hackathon 
+The problem statement given to us was How can technologies be used to make positive impact to mitigate issues of climate change?
 
 # About
 ### Problem Statement
