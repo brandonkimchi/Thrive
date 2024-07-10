@@ -36,8 +36,6 @@ The problem statement given to us was How can technologies be used to make posit
 - Javier Chan
 - Vernice Kah
 
-![team fubobo](https://github.com/brandonkimchi/Thrive/assets/168676986/fefbcfc0-2576-4f6f-b9d8-09a553823a96)
-
 # Software and Tools
 - Javascript
     - NativeWind
